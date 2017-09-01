@@ -1,6 +1,6 @@
 public class fizzbuzz {
     public static void main(String[] args) {
-        int n = 17;
+        int n = 18;
         int i = 0;
 
         for(i=0; i < n; i++) {
