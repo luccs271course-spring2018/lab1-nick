@@ -1,7 +1,7 @@
 public class fizzbuzz {
     public static void main(String[] args) {
-        int n = 18;
-        int i = 0;
+        int n = 18, i;
+
 
         for(i=0; i < n; i++) {
             if(i % 15 == 0){
